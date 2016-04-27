@@ -1,0 +1,28 @@
+{
+  "name": "vis",
+  "version": "1.0.0",
+  "description": "plage frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acm-nonsense/plage.git"
+  },
+  "keywords": [
+    "piazza",
+    "nlp",
+    "visualization"
+  ],
+  "author": "akmodi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acm-nonsense/plage/issues"
+  },
+  "homepage": "https://github.com/acm-nonsense/plage#readme",
+  "dependencies": {
+    "chart.js": "^2.0.2",
+    "skeleton-css": "^2.0.4"
+  }
+}
