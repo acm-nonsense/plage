@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PLAGE</title>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+</head>
+<body>
+  <div class="container">
+    <div class = "row">
+        <div class = "six columns"><h1 id="title">PLAGE</h1></div>
+        <div class = "six columns" style="text-align: right; margin-top: 4.5vh; line-height: 1.2;"><h4><a>Github</a></h4></div>
+    </div>
+    <div id="chart"></div>
+    <div class="row">
+        <div class = "eight columns">
+            <h3>Notable Posts</h3>
+            <a id='post0a' href=""><h5 id='post0'></h5></a>
+            <a id='post1a' href=""><h5 id='post1'></h5></a>
+            <a id='post2a' href=""><h5 id='post2'></h5></a>
+            <a id='post3a' href=""><h5 id='post3'></h5></a>
+            <a id='post4a' href=""><h5 id='post4'></h5></a>
+        </div>
+        <div class = "one columns">
+            <h3>&nbsp;</h3>
+            <h5 id='post0s'></h5>
+            <h5 id='post1s'></h5>
+            <h5 id='post2s'></h5>
+            <h5 id='post3s'></h5>
+            <h5 id='post4s'></h5>
+        </div>
+        <div class = "three columns">
+            <h5 style="margin-top:2vh; margin-bottom:3vh;" id='gotofolder'></h5>
+            <h5 style="margin-top:2vh; margin-bottom:3vh;">Details</h5><p style="margin-right:10px; margin-left:10px;"></p><br>
+            <p>Most Discussed</p><p id="mostDiscussed">MP 1</p><br>
+            <h6>Most Disliked</h6><p id="leastLiked">MP 1</p><br>
+            <h6>Most Liked</h6><p id="mostLiked">MP 1</p><br>
+        </div>
+    </div>
+  <script src="node_modules/d3/d3.js"></script>
+  <script src="index-script.js"></script>
+  <script src="scripts/utils.js"></script>
+</body>
+</html>

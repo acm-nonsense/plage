@@ -1,0 +1,10 @@
+name,sentiment,interactions,title_0,cid_0,sentiment_0,title_1,cid_1,sentiment_1,title_2,cid_2,sentiment_2,title_3,cid_3,sentiment_3,title_4,cid_4,sentiment_4
+other,0.009413673664162394,240,Are we supposed to check in those 5 programs?,14,-0.005432826666666666,Where/what is the "subversion area" referred to in the worksheet?,7,-0.0672505,Great Resource for learning C,11,0.26826500000000003,Lecture Question re. pointer arithmetic on void pointers,61,0.07419822222222222,Lecture Question re. pointer arithmetic on void pointers,61,0.07419822222222222
+logistics,0.005612063318151186,136,void pointer,50,0.019009799999999997,How to open files after successful ssh from remote laptop?,62,0.010541414814814814,Office hours this week - 2 slots (not Wednesday 4:15-5),165,0.053117,Could the other screen be turned on during class?,33,0.0701425,Cannot check out subversion,28,0.0005344500000000002
+exam,0.04423033333333334,8,Final Exam Time-slot,144,0,Quiz on Friday,45,0,Out of Scope,60,0.132691,,,,
+hw8,0,1,Cant find PDF,72,0,,,,,,,,
+project,0.020581059523809526,39,Grades for Implementation 1,101,0,Twitter data for  individual assignment,114,0,Can we have randomized final project groups?,118,0,Final Project,153,0,Self and Peer assessment - audio/video project,163,0.184196
+hw10,0,2,For hw 11,82,0,,,,,,,,
+polls,0,0,Run CATME one more time?!,96,0,Do you prefer doing self and peer assessments through CATME? or Compass?,136,0,,,,,,
+hw6,0.2499495,2,Personal Data,117,0.446327,Data Mining Assignment,130,0.05357199999999998,,,,,,
+hw1,0,1,Make edits to submission for Visualizing Own Data submission,125,0,,,,,,,,
