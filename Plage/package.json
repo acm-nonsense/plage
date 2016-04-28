@@ -1,0 +1,10 @@
+{
+  "name": "mixu_minimal",
+  "description": "Minimal router and client",
+  "version": "0.0.1",
+  "dependencies": {
+    "open": "0.0.5",
+    "selenium-webdriver": "^2.52.0",
+    "striptags": "^2.1.1"
+  }
+}
